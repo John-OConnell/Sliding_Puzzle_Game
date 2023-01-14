@@ -1,0 +1,3 @@
+LEADERBOARD
+Name	Number of Moves
+John	10
